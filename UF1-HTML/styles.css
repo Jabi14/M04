@@ -5,19 +5,15 @@
     font-family: 'Varela Round', sans-serif;
 }
 
-#bg {
-    position: fixed;
-    right: 0;
-    bottom: 0;
-    min-width: 100%;
-    min-height: 100%;
+body{
+    background-color: gray;
 }
 
-#content {
-    position: fixed;
-    top: 0;
-    background: rgba(0, 0, 0, 0.5);
-    color: #f1f1f1;
-    width: 100%;
-    padding: 20px;
+h1{
+    text-wrap:balance;
+    color:white;
+}
+
+.center{
+    text-align: center;
 }
